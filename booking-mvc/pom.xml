@@ -248,6 +248,7 @@
                               <version>2.2</version>
                               <configuration>
                                    <port>8090</port>
+				   <url>http://localhost:8090</url>
                                    <path>/</path>
                               </configuration>
                        </plugin>
